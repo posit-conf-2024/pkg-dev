@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Package Development: The Rest of the Owl
 ================
 
 ### posit::conf(2024)
