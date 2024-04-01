@@ -3,7 +3,7 @@ Package Development: The Rest of the Owl
 
 ### posit::conf(2024)
 
-by INSTRUCTOR_NAME
+by Jenny Bryan
 
 -----
 
