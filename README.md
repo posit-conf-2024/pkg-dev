@@ -10,7 +10,7 @@ by Jenny Bryan
 :spiral_calendar: August 12, 2024
 :alarm_clock:     09:00 - 17:00
 :hotel:           ROOM TBD
-:writing_hand:    [pos.it/pkg_dev_24](pos.it/pkg_dev_24)
+:writing_hand:    [pos.it/pkg_dev_24](https://pos.it/pkg_dev_24)
 
 -----
 
