@@ -116,7 +116,7 @@ install.packages("cli", type = "source")
 ## Instructor and TAs
 
 * Jenny Bryan (instructor) is a software engineer at Posit, usually working on the tidyverse packages or its supporting ecosystem, and is a member of the R Foundation. She recently co-authored the second edition of [the R Packages book](https://r-pkgs.org/) and is the maintainer of the [devtools](https://devtools.r-lib.org/) and [usethis](https://usethis.r-lib.org/) packages (among others).
-* Tomasz Kalinowski (TA)
+* Tomasz Kalinowski (TA) is a software engineer at Posit and a member of the [mlverse](https://github.com/mlverse) team, contributing to the development of open-source machine learning software. He co-authored ["Deep Learning with R"](https://www.manning.com/books/deep-learning-with-r-second-edition) and maintains several R packages, including [reticulate](https://rstudio.github.io/reticulate/), [tensorflow](https://tensorflow.rstudio.com), and [keras3](https://keras3.posit.co).
 * Kevin Ushey (TA) is a software engineer at Posit and member of the RStudio IDE development team. He is the maintainer of the [renv](https://rstudio.github.io/renv/) package, and has contributed to a large number of packages in the R ecosystem.
 
 -----
