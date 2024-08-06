@@ -117,7 +117,7 @@ install.packages("cli", type = "source")
 
 * Jenny Bryan (instructor) is a software engineer at Posit, usually working on the tidyverse packages or its supporting ecosystem, and is a member of the R Foundation. She recently co-authored the second edition of [the R Packages book](https://r-pkgs.org/) and is the maintainer of the [devtools](https://devtools.r-lib.org/) and [usethis](https://usethis.r-lib.org/) packages (among others).
 * Tomasz Kalinowski (TA)
-* Kevin Ushey (TA)
+* Kevin Ushey (TA) is a software engineer at Posit and member of the RStudio IDE development team. He is the maintainer of the [renv](https://rstudio.github.io/renv/) package, and has contributed to a large number of packages in the R ecosystem.
 
 -----
 
