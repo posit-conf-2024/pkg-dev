@@ -31,10 +31,11 @@ We will lean heavily on the tools and principles used by the tidyverse team, emb
 This list of topics is indicative of what we will cover:
 
 -   Fundamental daily workflows: `devtools::load_all()` and `check()`
--   Documentation: function documentation, vignettes, and website
--   Dependencies and namespaces: how to use other packages in yours and how to distinguish the parts of your package that are internal vs. external
 -   Testing: the testthat package and the philosophy of writing tests as you go (vs. "later")
+-   Documentation: function documentation, vignettes, and website
 -   Data: internal data vs. data available to your user
+-   GitHub Actions for automatically checking your package and building/deploying a pkgdown website
+-   User interface: how to provide beautiful, informative messages with the cli package
 
 There will be chunks of time for you to do exercises throughout the day.
 We will make sure there are good options that allow all participants to engage with the material.
