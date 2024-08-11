@@ -40,3 +40,12 @@ Ideas for extending libminer:
   - Look at the information returned by `utils::installed.packages()`. There's more interesting stuff there! Such as `Priority`, `Depends`, and `NeedsCompilation`.
   - For each `LibPath`, tabulate the `Priority` of the packages installed there. (Ideally the base and recommended packages live in one library and user-installed add-on packages live in another library, so this is the beginning of a "package library health check".)
   - For all installed packages (maybe split out by `LibPath`?), report something about the treatment of R in `Depends`. Is a minimum version of R stated at all? Tabulate the mininum R version requirements.
+
+## Treasure hunt
+
+Use your GitHub code search skills to find and study some of the special techniques we discussed:
+
+* How prevalent is `README.Rmd`? Hint: you might need to look in `.Rbuildignore` to detect this, because only `README.md` will make it into the source package on CRAN.
+* Can you find folks using the `vignette("things", package = "somepkg")` in help topics? In vignettes?
+* Look for usage of `@examplesIf`. What sort of code do you see evaluated there, i.e. that controls whether the example should execute?
+* Look for packages that change the world in their examples. Do they restore the original state? You can't write a super precise search query for this, but you should be able to get somewhere.
