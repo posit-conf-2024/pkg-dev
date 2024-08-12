@@ -18,13 +18,13 @@ by Jenny Bryan
 
 | Time          | Topics         | Slides | Prompts |
 | :------------ | :------------- | :------ | :------ |
-| 09:00 - 10:30 | Kick the tires of your setup<br>Core workflows<br>Let me GitHub search that for you | slides | prompts |
+| 09:00 - 10:30 | Kick the tires of your setup<br>Core workflows<br>Let me GitHub search that for you | [slides](materials/pkg-dev-posit-conf-2024-introduction.pdf) | [prompts](github-code-search-prompts.md)|
 | 10:30 - 11:00 | *Coffee break* | | |
-| 11:00 - 12:30 | Testing        | slides | prompts |
+| 11:00 - 12:30 | Testing        | [slides](materials/pkg-dev-posit-conf-2024-testing.pdf) | [prompts](testing-prompts.md) |
 | 12:30 - 13:30 | *Lunch break*  | | |
-| 13:30 - 15:00 | Documentation  | slides | prompts |
+| 13:30 - 15:00 | Documentation  | [slides](materials/pkg-dev-posit-conf-2024-documentation.pdf) | [prompts](documentation-prompts.md) |
 | 15:00 - 15:30 | *Coffee break* | | |
-| 15:30 - 17:00 | GitHub Actions<br>Beautiful UI with cli<br>Topic by popular request? | slides | prompts |
+| 15:30 - 17:00 | GitHub Actions<br>Beautiful UI with cli<br>Topic by popular request? | [slides](materials/pkg-dev-posit-conf-2024-GHA-cli.pdf) | [GHA prompts](github-actions-prompts.md)<br>[cli prompts](cli-prompts.md) |
 
 ## Description
 
