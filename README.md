@@ -16,15 +16,15 @@ by Jenny Bryan
 
 ## Schedule
 
-| Time          | Activity         |
-| :------------ | :--------------- |
-| 09:00 - 10:30 | Kick the tires of your setup<br>Core workflows<br>Let me GitHub search that for you        |
-| 10:30 - 11:00 | *Coffee break*   |
-| 11:00 - 12:30 | Testing        |
-| 12:30 - 13:30 | *Lunch break*    |
-| 13:30 - 15:00 | Documentation        |
-| 15:00 - 15:30 | *Coffee break*   |
-| 15:30 - 17:00 | GitHub Actions<br>Beautiful UI with cli<br>Topic by popular request?        |
+| Time          | Topics         | Prompts |
+| :------------ | :------------- | :------ |
+| 09:00 - 10:30 | Kick the tires of your setup<br>Core workflows<br>Let me GitHub search that for you | placeholder |
+| 10:30 - 11:00 | *Coffee break* | |
+| 11:00 - 12:30 | Testing        | placeholder |
+| 12:30 - 13:30 | *Lunch break*  | |
+| 13:30 - 15:00 | Documentation  | placeholder |
+| 15:00 - 15:30 | *Coffee break* | |
+| 15:30 - 17:00 | GitHub Actions<br>Beautiful UI with cli<br>Topic by popular request? | placeholder |
 
 ## Description
 
